@@ -76,8 +76,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://fullstack-todo-list-application.onrender.com)
->
+
 
 <br/>
 
