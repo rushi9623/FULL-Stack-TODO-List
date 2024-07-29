@@ -2,7 +2,6 @@
 
 <br/>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
 </p>
 
 ## ⭐ Introduction
@@ -85,8 +84,12 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 💻 Screens
 
 <p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
 </p>
 <br/>
 
 I hope you like the project. Thanks for reading :)
+
+
+to run 
+npm i
+npm start
